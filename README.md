@@ -33,7 +33,7 @@ Para replicar el entorno de entrenamiento y validación:
 Paso 1: Clonar y Preparar el Entorno
 
 ```bash
-git clone [https://github.com/DanielAngel79/Phishing-Detector-ML.git](https://github.com/DanielAngel79/Phishing-Detector-ML.git)
+git clone [https://github.com/dar47-socrecon/Phishing-Detector-MLOps.git](https://github.com/dar47-socrecon/Phishing-Detector-MLOps.git)
 cd Phishing-Detector-ML
 python3 -m venv venv
 source venv/bin/activate
